@@ -1,2 +1,5 @@
 # hello-world
-Just another repo
+
+Hi there!
+
+Just trying this thing out.
